@@ -9,7 +9,7 @@
 ## 运行及构建
 ``` bash
 $ npm install -g vue-cli
-$ vue init joneqian/vue2-express my-project
+$ vue init LuLuCodes/easy-front-vue-cli my-project
 $ cd my-project
 $ npm install
 $ npm run dev //运行调试模式
