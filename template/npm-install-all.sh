@@ -1,5 +1,5 @@
 cd client
-./npm-install.sh
+npm install
 cd ..
 cd server
-./npm-install.sh
+npm install
