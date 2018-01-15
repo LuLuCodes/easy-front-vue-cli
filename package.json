@@ -1,6 +1,6 @@
 {
   "name": "easy-front-vue-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "description": "Vue全家桶集成方案，同时以express作为后端解决方案",
   "scripts": {
